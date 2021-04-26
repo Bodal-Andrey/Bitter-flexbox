@@ -1,0 +1,26 @@
+.symptoms {
+    padding-bottom: 90px;
+}
+
+.symptoms-title {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #303030;
+}
+
+.symptoms-wrapper {
+    display: flex;
+}
+
+.symptoms-list {
+    list-style: none;
+}
+
+.symptoms-list__column {
+    width: 670px;
+}
+
+.symptoms-img__column {
+    width: 500px;
+}

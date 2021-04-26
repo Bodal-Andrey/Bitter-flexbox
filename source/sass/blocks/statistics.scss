@@ -1,0 +1,22 @@
+.statistics {
+    padding-top: 85px;
+    padding-bottom: 150px;
+}
+
+.statistics-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+}
+
+.statistics-list__item {
+    width: 270px;
+    margin-right: 15px;
+}
+
+.item-indicator {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #a4c58c;
+}

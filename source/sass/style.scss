@@ -1,8 +1,13 @@
 @import "normalize.scss";
 @import "fonts.scss";
-@import "variables.scss";
 @import "mixin.scss";
 @import "scaffolding.scss";
-@import "blocks/header.scss";
-//Тут остальные импорта
-@import "blocks/footer.scss";
+@import "blocks/main-header.scss";
+@import "blocks/promo.scss";
+@import "blocks/statistics.scss";
+@import "blocks/symptoms.scss";
+@import "blocks/success-secret.scss";
+@import "blocks/set.scss";
+@import "blocks/ingredients.scss";
+@import "blocks/warranty.scss";
+@import "blocks/main-footer.scss";

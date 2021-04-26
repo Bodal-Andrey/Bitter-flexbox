@@ -1,0 +1,40 @@
+.main-footer__wrapper {
+    display: flex;
+    align-items: flex-start;
+}
+
+.main-footer__logo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 90px;
+}
+
+.main-footer__phone {
+    padding-top: 20px;
+    margin-left: auto;
+    text-align: right;
+}
+
+.main-footer__links {
+    display: flex;
+    flex-wrap: wrap;
+    width: 645px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    padding-top: 25px;
+}
+
+.footer-links__item {
+    margin-right: 60px;
+}
+
+.footer-links__item:last-child {
+    margin-right: 0;
+}
+
+.footer-links__link {
+    font-size: 12px;
+    line-height: 16px;
+    color: #9a9a9a;
+}
